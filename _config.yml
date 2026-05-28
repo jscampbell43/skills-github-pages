@@ -2,3 +2,4 @@ theme: minima
 title: {{ login }}'s GitHub Pages Test
 description: Testing GitHub Pages using tutorial
 author: {{login}}
+date: 2025-05-15
